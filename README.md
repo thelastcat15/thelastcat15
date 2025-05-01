@@ -44,8 +44,6 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="left">
